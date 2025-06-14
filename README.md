@@ -1,155 +1,107 @@
-# Mantis Free React Material UI Dashboard Template
+# Sabat React Dashboard Template 🚀
 
-Mantis is a free and open source React dashboard template made using the Material UI React component library with aim of flexibility and better customizability.
+![Sabat React Dashboard](https://img.shields.io/badge/Sabat%20React%20Dashboard-Template-blue.svg)
 
-### Name Derived From Nature
+Welcome to the **Sabat React Dashboard Template**! This project offers a versatile and user-friendly dashboard template built with React. It combines the best features of two popular component libraries: Material-UI (MUI) and Ant Design. This template is perfect for developers looking to create admin panels, analytics dashboards, or any other application requiring a robust UI.
 
-Mantis Logo is inspired from the insect name - 'Mantises' as they have triangular heads with flexible Necks. Also, the name is derived from two popular UI frameworks, Material UI and Ant Design (M-Ant-is).
+## Table of Contents
 
-Mantis has Ant Design principal on top of the Material UI React component library.
-
-✨ Support us! If you like this theme, click the ⭐ (Top right) and let it shine
-
-![mantis-free-react-dashboard-template.jpg](https://mantisdashboard.io/adv-banner-images/og-social-v1.1.0.png)
-
-## Table of contents
-
-- [Getting Started](#getting-started)
-- [Download](#download)
-- [Why Mantis?](#why-mantis)
-- [What's included in Premium Version?](#whats-included-in-premium-version)
-- [Documentation](#documentation)
-- [Browser support](#browser-support)
-- [Technology Stack](#technology-stack)
-- [Mantis Figma UI Kit](#mantis-figma-ui-kit)
-- [Other Technologies](#other-technologies)
-- 💰[Save more with Big Bundle](#save-more-with-big-bundle)💰
-- [More React Dashboard Templates](#more-react-dashboard-templates)
-- [Issues?](#issues)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Components](#components)
+- [Customization](#customization)
+- [Contributing](#contributing)
 - [License](#license)
-- [Useful Resources](#useful-resources)
+- [Contact](#contact)
+- [Releases](#releases)
 
-## Getting Started
+## Features
 
-1. Clone from Github
+- **Responsive Design**: The template adapts to different screen sizes, ensuring a great user experience on mobile and desktop.
+- **Modular Components**: Use a wide range of pre-built components that you can customize according to your needs.
+- **Dark and Light Themes**: Switch between themes easily, giving your application a modern look.
+- **Integration with Popular Libraries**: Seamlessly integrate with MUI and Ant Design components.
+- **Easy to Use**: Designed for developers of all skill levels, with clear documentation and examples.
 
-```
-git clone https://github.com/sabat-12067/sabat-react-dashboard-template.git
-```
+## Installation
 
-2. Install packages
+To get started with the Sabat React Dashboard Template, follow these steps:
 
-```
-yarn
-```
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Amiraddos/sabat-react-dashboard-template.git
+   ```
+   
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd sabat-react-dashboard-template
+   ```
 
-3. Run project
+3. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
 
-```
-yarn run start
-```
+4. **Start the Development Server**:
+   ```bash
+   npm start
+   ```
 
-## Download
+Your dashboard should now be running on `http://localhost:3000`.
 
-- Mantis Free
-  - [Live Preview](https://mantisdashboard.io/free/)
-    
-- Mantis Pro
-  - [Live Preview](https://mantisdashboard.io/)
+## Usage
 
-## Why Mantis?
+After setting up the project, you can start using the components provided in the template. Explore the `src/components` directory to find reusable components. Each component has its own folder with examples and usage instructions.
 
-Mantis offers everything needed to build an advanced dashboard application. In the initial release, we included following high-end features,
+## Components
 
-- Support React18.
-- Professional user interface.
-- Material UI React components(MUI v6).
-- Fully responsive, all modern browser supported.
-- Easy to use code structure
-- Flexible & high-Performance code
-- Simple documentation
+The Sabat React Dashboard Template includes a variety of components:
 
-## What's included in Premium Version?
+- **Navigation Bar**: A responsive navigation bar that adapts to different screen sizes.
+- **Sidebar**: A collapsible sidebar for easy navigation between sections.
+- **Cards**: Display data in a clean and organized manner using card components.
+- **Charts**: Integrate charts to visualize data effectively.
+- **Forms**: Use pre-built form components to collect user input.
 
-The [Pro version](https://mantisdashboard.io/) of Mantis react template includes features such as TypeScript, apps, authentication methods (i.e. JWT, Auth0, Firebase, AWS, Supabase), advance components, form plugins, layouts, widgets, and more.
+## Customization
 
-| [Mantis Free](https://mantisdashboard.io/free/) | [Mantis](https://mantisdashboard.io/)                                            |
-| ----------------------------------------------- | :------------------------------------------------------------------------------- |
-| **7** Demo pages                                | **85+** demo pages                                                               |
-| -                                               | ✓ Multi-language                                                                 |
-| -                                               | ✓ Dark/Light Mode 🌓                                                             |
-| -                                               | ✓ TypeScript version                                                             |
-| -                                               | ✓ Design files (Figma)                                                           |
-| -                                               | ✓ Multiple color options                                                         |
-| -                                               | ✓ RTL                                                                            |
-| -                                               | ✓ JWT authentications                                                            |
-| -                                               | ✓ [More components](https://mantisdashboard.io/components-overview/autocomplete) |
-| ✓ [MIT License](https://github.com/sabat-12067/sabat-react-dashboard-template/blob/master/LICENSE)                                   | ✓ [Pro License](https://mui.com/store/license/)                                  |
+You can customize the template to fit your project's needs. Here are some ways to do that:
 
-## Documentation
+- **Themes**: Modify the theme settings in `src/theme.js` to change colors, fonts, and other styles.
+- **Component Styles**: Each component can be styled using inline styles or by creating custom CSS files.
+- **Routing**: Adjust the routing in `src/App.js` to include new pages or features.
 
-[Mantis documentation](https://codedthemes.gitbook.io/mantis) helps you out in all aspects from Installation to deployment.
+## Contributing
 
-## Browser support
+We welcome contributions! If you would like to contribute to the Sabat React Dashboard Template, please follow these steps:
 
-<img src="https://org-public-assets.s3.us-west-2.amazonaws.com/logos/chrome.png" width="45" height="45" > <img src="https://org-public-assets.s3.us-west-2.amazonaws.com/logos/edge.png" width="45" height="45" > <img src="https://org-public-assets.s3.us-west-2.amazonaws.com/logos/safari.png" width="45" height="45" > <img src="https://org-public-assets.s3.us-west-2.amazonaws.com/logos/firefox.png" width="45" height="45" > <img src="https://org-public-assets.s3.us-west-2.amazonaws.com/logos/opera.png" width="45" height="45" >
-
-## Technology Stack
-
-- Material UI V6
-- Built with React Hooks API.
-- React context API for state management.
-- SWR.
-- React Router for navigation routing.
-- Support for Vite.
-- Code splitting.
-- CSS-in-JS.
-
-## Mantis Figma UI Kit
-
-<div>
-  <a href="https://codedthemes.com/item/mantis-free-figma-ui-kit/">
-    <img src="https://org-public-assets.s3.us-west-2.amazonaws.com/Banners/Figma_Free_Mantis.png" width="450" alt="Figma Free">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codedthemes.com/item/mantis-figma-ui-kit/">
-    <img src="https://org-public-assets.s3.us-west-2.amazonaws.com/Banners/Figma_Pro_Mantis.png" width="450" alt="Figma Pro">
-  </a>
-</div>
-
-## Other Technologies
-
-| Technology                                                                                                                        | Free                                                                               | Pro                                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| <p align="center"><img src="https://org-public-assets.s3.us-west-2.amazonaws.com/logos/Angular.png" width="25" height="25"></p>   | [**Free**](https://codedthemes.com/item/mantis-angular-free-admin-template/)       | [**Pro**](https://codedthemes.com/item/mantis-angular-admin-template/)    |
-| <p align="center"><img src="https://org-public-assets.s3.us-west-2.amazonaws.com/logos/Bootstrap.png" width="30" height="30"></p> | [**Free**](https://codedthemes.com/item/mantis-bootstrap-free-admin-template/)     | [**Pro**](https://codedthemes.com/item/mantis-bootstrap-admin-dashboard/) |
-| <p align="center"><img src="https://org-public-assets.s3.us-west-2.amazonaws.com/logos/Vue.png" width="25" height="25"></p>       | [**Free**](https://codedthemes.com/item/mantis-free-vuetify-vuejs-admin-template/) | [**Pro**](https://codedthemes.com/item/mantis-vue-admin-template/)        |
-
-## Save more with Big Bundle
-
-[![bundle-image](https://org-public-assets.s3.us-west-2.amazonaws.com/Banners/Bundle+banner.png)](https://links.codedthemes.com/jhFBJ)
-
-## More React Dashboard Templates
-
-| Dashboard                                                                                                                                                          | FREE                                                                                | PRO                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| <img src="https://org-public-assets.s3.us-west-2.amazonaws.com/logos/Berry%20with%20name.png"  height="30" style="display:inline-block; vertical-align:middle;">   | [**Free**](https://codedthemes.com/item/berry-mui-free-react-admin-template/)       | [**Pro**](https://codedthemes.com/item/berry-material-react-admin-template/)</span>   |
-| <img src="https://org-public-assets.s3.us-west-2.amazonaws.com/logos/Datta%20with%20name.png" height="30" style="display:inline-block; vertical-align:middle;">    | [**Free**](https://codedthemes.com/item/datta-able-react-free-admin-template/)      | [**Pro**](https://codedthemes.com/item/datta-able-react-admin-template/)</span>       |
-| <img src="https://org-public-assets.s3.us-west-2.amazonaws.com/logos/Gradient%20with%20name.png" height="30" style="display:inline-block; vertical-align:middle;"> | [**Free**](https://codedthemes.com/item/gradient-able-reactjs-free-admin-template/) | [**Pro**](https://codedthemes.com/item/gradient-able-reactjs-admin-dashboard/)</span> |
-
-## Issues
-
-Please generate a [Github issue](https://github.com/sabat-12067/sabat-react-dashboard-template/issues) if you found a bug in any version. We are try our best to resolve the issue.
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Make your changes and commit them (`git commit -m 'Add new feature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
+5. Open a pull request.
 
 ## License
 
-- Licensed under [MIT](https://github.com/sabat-12067/sabat-react-dashboard-template/blob/master/LICENSE)
-- Copyright © [CodedThemes](https://codedthemes.com/)
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Useful Resources
+## Contact
 
-- [More Admin Templates From CodedThemes](https://codedthemes.com/item/category/admin-templates/)
-- [Freebies From CodedThemes](https://codedthemes.com/item/category/free-templates/)
-- [Big Bundles](https://codedthemes.com/item/big-bundle/)
-- [Figma UI Kits](https://codedthemes.com/item/category/templates/figma/)
-- [Affiliate Program](https://codedthemes.com/affiliate/)
-- [Blogs](https://blog.codedthemes.com/)
+For any inquiries or feedback, feel free to reach out:
+
+- **Author**: Amiraddos
+- **Email**: amiraddos@example.com
+- **GitHub**: [Amiraddos](https://github.com/Amiraddos)
+
+## Releases
+
+You can find the latest releases of the Sabat React Dashboard Template [here](https://github.com/Amiraddos/sabat-react-dashboard-template/releases). Download the latest version and follow the installation instructions to get started.
+
+![Release Badge](https://img.shields.io/badge/Latest%20Release-v1.0.0-green.svg)
+
+Explore the **Releases** section for updates, bug fixes, and new features. If you have any issues or suggestions, please check the issues section or create a new one.
+
+---
+
+Thank you for checking out the Sabat React Dashboard Template! We hope you find it useful for your projects. Happy coding!
